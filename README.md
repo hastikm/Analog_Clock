@@ -1,6 +1,6 @@
 # Analog clock 
 
-click [hear ](https://www.example.com/my%20great%20page) to see demo
+click [hear ](https://hastikm.github.io/Analog_Clock/file/) to see demo
 
 ![analog ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT_ExDKcetyF-EEQm-4HKczQPkI47Bz6xZEQ&s)
 
