@@ -23,6 +23,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 .clock::before{
@@ -31,6 +32,7 @@ body{
     height: 20px;
     background-color: rgb(74, 185, 187);
     border-radius: 50%;
+    z-index: 5;
     
 }
 
@@ -78,7 +80,7 @@ body{
     position: absolute;
     width: 8px;
     height:80px;
-    background-color: rgb(254, 173, 227);
+    background-color: rgb(205, 27, 143);
     border-radius: 6px 6px 0 0;
     z-index: 2;
     
